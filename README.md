@@ -3,6 +3,7 @@ Atividade prática - classificadores
 
 Treine uma árvore de decisão (DescisionTree) a partir da base Breast Cancer
 Link: https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic
+
 Opcionalmente, pode-se utilizar o arquivo breast-cancer.csv disponível no BB, na pasta desta aula.
 
 Passos
